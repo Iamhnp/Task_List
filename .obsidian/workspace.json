@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "062837177cbf37ef",
+            "id": "ce5667856ecbb28d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "🌞Morning/C.md"
+              }
             }
           }
         ],
@@ -82,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🌞Morning/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🌞Morning/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🌞Morning/C.md"
+              }
             }
           },
           {
@@ -209,9 +215,16 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "8248d1a9bc0213f5",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,17 +241,21 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "6fb7582c22281f97",
+  "active": "ce5667856ecbb28d",
   "lastOpenFiles": [
-    "💡Idea/Untitled.md",
-    "🧭Project/Untitled.md",
+    "Software development method(SDM).md",
+    "🌞Morning/C.md",
+    "Introduction to Operators.md",
     "🧠Remember list.md",
+    "🧭Project/Project C/📌 Name Project.md",
+    "🌞Morning/Arduino.md",
+    "🧭Project/Untitled.md",
+    "💡Idea/Untitled.md",
     "💡Idea/Cu sac lay giu lieu.md",
     "💡Idea",
     "🌼Afternoon/Tasks.md",
     "README.md",
     "🌙 Evening/Unity.md",
-    "🌞Morning/C.md",
     "🌞Morning/8051.md",
     "💡Idea",
     "🧭Project/Project C_sharp",
@@ -247,7 +264,6 @@
     "🧭Project/Project C",
     "🧭Project/Project Arduino",
     "🧭Project",
-    "🌞Morning/Arduino.md",
     "🌆Night/Linux.md",
     "🌆Night/Drawing.md",
     "🌆Night/Hacking.md",

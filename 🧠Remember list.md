@@ -1,1 +1,2 @@
-
+- [/] Uống đủ nước ⏫ 🔁 every day 
+- [/] Tập thể dục ⏫ 🔁 every day 

@@ -1,0 +1,8 @@
+-   Arithmetic Operators
+-   Relational Operators
+-   Logical Operators
+-   Assignment Operators
+-   Increment and Decrement operators
+-   Conditional operators
+-   ***Bitwise Operators
+-   Special operators.
