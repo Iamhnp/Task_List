@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77e079dad49d8110",
+            "id": "062837177cbf37ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠Remember list.md",
+                "file": "💡Idea/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠Remember list.md",
+                "file": "💡Idea/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠Remember list.md",
+                "file": "💡Idea/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧠Remember list.md"
+                "file": "💡Idea/Untitled.md"
               }
             }
           },
@@ -236,11 +236,13 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "6fb7582c22281f97",
+  "active": "062837177cbf37ef",
   "lastOpenFiles": [
+    "🧠Remember list.md",
+    "💡Idea/Untitled.md",
+    "💡Idea/Cu sac lay giu lieu.md",
     "💡Idea",
     "🌼Afternoon/Tasks.md",
-    "🧠Remember list.md",
     "README.md",
     "🌙 Evening/Unity.md",
     "🌞Morning/C.md",
@@ -261,7 +263,6 @@
     "🌙 Evening/Asprite.md",
     "🌆Night",
     "🌙 Evening",
-    "🌞Morning",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Learn C sharp.md",
