@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 22,
+  "interfaceFontFamily": "Cascadia Code",
+  "textFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "Cascadia Code"
 }

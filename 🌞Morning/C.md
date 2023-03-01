@@ -6,6 +6,9 @@ kanban-plugin: basic
 
 ## Task list
 
+- [ ] Cmake
+- [ ] Ninja Build
+- [ ] GCC Compiler
 
 
 ## In Progress

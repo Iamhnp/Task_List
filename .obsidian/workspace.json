@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "🌞Morning/C.md"
+                "file": "🌼Afternoon/Tasks.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌞Morning/C.md",
+                "file": "🌼Afternoon/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌞Morning/C.md",
+                "file": "🌼Afternoon/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌞Morning/C.md"
+                "file": "🌼Afternoon/Tasks.md"
               }
             }
           },
@@ -220,6 +220,11 @@
   },
   "active": "6fb7582c22281f97",
   "lastOpenFiles": [
+    "README.md",
+    "🌼Afternoon/Tasks.md",
+    "🌙 Evening/Unity.md",
+    "🌞Morning/C.md",
+    "🌞Morning/8051.md",
     "💡Idea",
     "🧭Project/Project C_sharp",
     "🧭Project/Project Game",
@@ -227,11 +232,7 @@
     "🧭Project/Project C",
     "🧭Project/Project Arduino",
     "🧭Project",
-    "🌙 Evening/Unity.md",
-    "🌞Morning/8051.md",
     "🌞Morning/Arduino.md",
-    "🌞Morning/C.md",
-    "🌼Afternoon/My day.md",
     "🌆Night/Linux.md",
     "🌆Night/Drawing.md",
     "🌆Night/Hacking.md",
@@ -241,7 +242,6 @@
     "🌆Night",
     "🌙 Evening",
     "🌞Morning",
-    "Untitled/Untitled",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Learn C sharp.md",
