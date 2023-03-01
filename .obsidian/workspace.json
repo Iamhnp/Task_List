@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "61a078ff51a7c655",
+    "type": "split",
+    "children": [
+      {
+        "id": "056386b0e43bc6c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77e079dad49d8110",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "🌞Morning/C.md"
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2aefc01e73f58ef6",
+    "type": "split",
+    "children": [
+      {
+        "id": "76396b979f10721a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fb7582c22281f97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7feffccec3f8d6b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "772544abdb3153c8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7780f69f56b2c258",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c4df85a20f012b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d2481d8bc5a5a39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🌞Morning/C.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ea12d8682dad158",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🌞Morning/C.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ab629a6e1248b11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "423f3c7021eb987a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🌞Morning/C.md"
+              }
+            }
+          },
+          {
+            "id": "2f7c8f5eb61ed0dd",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e520ff2a9027797",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "27756fc4a9768d06",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "e26a15bf6bfbddfc",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "746f2976f4aa7162",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "85afc297a14d59ab",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b8f96dfd003b657",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "d561016ac8b37407",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7b07618e33441eb",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
+    }
+  },
+  "active": "6fb7582c22281f97",
+  "lastOpenFiles": [
+    "💡Idea",
+    "🧭Project/Project C_sharp",
+    "🧭Project/Project Game",
+    "🧭Project/Project 8051",
+    "🧭Project/Project C",
+    "🧭Project/Project Arduino",
+    "🧭Project",
+    "🌙 Evening/Unity.md",
+    "🌞Morning/8051.md",
+    "🌞Morning/Arduino.md",
+    "🌞Morning/C.md",
+    "🌼Afternoon/My day.md",
+    "🌆Night/Linux.md",
+    "🌆Night/Drawing.md",
+    "🌆Night/Hacking.md",
+    "🌆Night/Network.md",
+    "🌙 Evening/C_sharp.md",
+    "🌙 Evening/Asprite.md",
+    "🌆Night",
+    "🌙 Evening",
+    "🌞Morning",
+    "Untitled/Untitled",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Learn C sharp.md",
+    "To be hacker for fun.md",
+    "How to create video game.md",
+    "Learn C,C++.md",
+    "2023-02-15.md"
+  ]
+}
