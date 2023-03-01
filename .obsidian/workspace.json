@@ -209,6 +209,14 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "c65a4d012eb4b65c",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -230,6 +238,7 @@
   },
   "active": "6fb7582c22281f97",
   "lastOpenFiles": [
+    "💡Idea",
     "🌼Afternoon/Tasks.md",
     "🧠Remember list.md",
     "README.md",
