@@ -11,9 +11,11 @@
             "id": "77e079dad49d8110",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "🌼Afternoon/Tasks.md"
+                "file": "🧠Remember list.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌼Afternoon/Tasks.md",
+                "file": "🧠Remember list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌼Afternoon/Tasks.md",
+                "file": "🧠Remember list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌼Afternoon/Tasks.md"
+                "file": "🧠Remember list.md"
               }
             }
           },
@@ -199,6 +201,14 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "069a18c838759126",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -220,8 +230,9 @@
   },
   "active": "6fb7582c22281f97",
   "lastOpenFiles": [
-    "README.md",
     "🌼Afternoon/Tasks.md",
+    "🧠Remember list.md",
+    "README.md",
     "🌙 Evening/Unity.md",
     "🌞Morning/C.md",
     "🌞Morning/8051.md",
