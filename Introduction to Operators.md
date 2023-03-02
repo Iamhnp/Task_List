@@ -5,4 +5,4 @@
 -   Increment and Decrement operators
 -   Conditional operators
 -   ***Bitwise Operators
--   Special operators.
+-   Special operators

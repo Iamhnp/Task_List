@@ -1,0 +1,4 @@
+- Component
+- Magnitude
+- Normalized
+- Operator

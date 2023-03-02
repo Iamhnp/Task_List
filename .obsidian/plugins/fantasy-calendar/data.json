@@ -196,7 +196,7 @@
       "current": {
         "year": 2023,
         "month": 2,
-        "day": 1
+        "day": 2
       },
       "events": [
         {
@@ -420,7 +420,7 @@
           "color": "#0288D1"
         }
       ],
-      "date": 1677632829734,
+      "date": 1677714980178,
       "displayWeeks": true
     }
   ],

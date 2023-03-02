@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "056386b0e43bc6c6",
+        "id": "a199d4268dc72084",
         "type": "tabs",
         "children": [
           {
-            "id": "ce5667856ecbb28d",
+            "id": "e7f1cb2cbb935a47",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "🌞Morning/C.md"
+                "file": "Introduction to Operators.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌞Morning/C.md",
+                "file": "Introduction to Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌞Morning/C.md",
+                "file": "Introduction to Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌞Morning/C.md"
+                "file": "Introduction to Operators.md"
               }
             }
           },
@@ -223,8 +225,25 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "26063e010db0e964",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b8e049973bc28fa",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -238,25 +257,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce5667856ecbb28d",
+  "active": "e7f1cb2cbb935a47",
   "lastOpenFiles": [
     "Software development method(SDM).md",
-    "🌞Morning/C.md",
+    "Vector.md",
+    "🌙Evening/C_sharp.md",
+    "README.md",
     "Introduction to Operators.md",
+    "Game design documment.md",
+    "🌆Night/Drawing.md",
+    "🌆Night/Hacking.md",
+    "🌆Night/Linux.md",
+    "🌆Night/Network.md",
     "🧠Remember list.md",
     "🧭Project/Project C/📌 Name Project.md",
+    "Gesture Drawing.md",
+    "🌼Afternoon/Tasks.md",
+    "🌞Morning/8051.md",
+    "🌞Morning/C.md",
     "🌞Morning/Arduino.md",
+    "🌙Evening/Game Design.md",
+    "💡Idea/Drawing 2023-03-02 08.27.38.excalidraw.md",
+    "🌙Evening/Unity.md",
+    "🌙 Evening/Untitled.md",
     "🧭Project/Untitled.md",
     "💡Idea/Untitled.md",
     "💡Idea/Cu sac lay giu lieu.md",
     "💡Idea",
-    "🌼Afternoon/Tasks.md",
-    "README.md",
-    "🌙 Evening/Unity.md",
-    "🌞Morning/8051.md",
     "💡Idea",
     "🧭Project/Project C_sharp",
     "🧭Project/Project Game",
@@ -264,20 +295,11 @@
     "🧭Project/Project C",
     "🧭Project/Project Arduino",
     "🧭Project",
-    "🌆Night/Linux.md",
-    "🌆Night/Drawing.md",
-    "🌆Night/Hacking.md",
-    "🌆Night/Network.md",
-    "🌙 Evening/C_sharp.md",
-    "🌙 Evening/Asprite.md",
+    "🌙Evening/Asprite.md",
     "🌆Night",
-    "🌙 Evening",
+    "🌙Evening",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Learn C sharp.md",
-    "To be hacker for fun.md",
-    "How to create video game.md",
-    "Learn C,C++.md",
-    "2023-02-15.md"
+    "Learn C sharp.md"
   ]
 }
