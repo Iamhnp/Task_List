@@ -1,0 +1,3 @@
+- Minimax
+- AB Pruning
+- MCTS

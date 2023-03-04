@@ -6,8 +6,10 @@ kanban-plugin: basic
 
 ## Task list
 
-- [ ] [[Game design documment]]
-- [ ] [[Vector]]
+- [ ] Introduce Game
+- [ ] Core Loop
+- [ ] Core Pillar
+- [ ] Direction
 
 
 ## In Progress
@@ -19,7 +21,11 @@ kanban-plugin: basic
 **Complete**
 
 
+***
 
+## Archive
+
+- [x] Unity Editor interface
 
 %% kanban:settings
 ```

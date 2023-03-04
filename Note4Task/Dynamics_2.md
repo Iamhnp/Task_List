@@ -1,0 +1,5 @@
+- Friction
+- Joints
+- Restitution 
+- Bouyancy
+- 

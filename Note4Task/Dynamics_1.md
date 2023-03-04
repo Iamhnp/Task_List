@@ -1,0 +1,7 @@
+- Linear Velocity
+- Angular Velocity
+- Force 
+- Acceleration
+- Center of Mass
+- Monment of Inertia 
+-

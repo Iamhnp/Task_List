@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## Task list
 
+- [ ] [[Dynamics_1]]
+- [ ] [[Dynamics_2]]
 
 
 ## In Progress
@@ -17,7 +19,11 @@ kanban-plugin: basic
 **Complete**
 
 
+***
 
+## Archive
+
+- [x] Unity Editor interface
 
 %% kanban:settings
 ```

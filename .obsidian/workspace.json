@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a199d4268dc72084",
+        "id": "06cb6e0d2fd13cf8",
         "type": "tabs",
         "children": [
           {
-            "id": "e7f1cb2cbb935a47",
+            "id": "1c1ba1ad77d71abd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to Operators.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Introduction to Operators.md"
-              }
+              "state": {}
             }
           },
           {
@@ -241,13 +233,22 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "14a9c53891d8dcb9",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,45 +262,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7f1cb2cbb935a47",
+  "active": "1c1ba1ad77d71abd",
   "lastOpenFiles": [
-    "Software development method(SDM).md",
-    "Vector.md",
-    "🌙Evening/C_sharp.md",
-    "README.md",
-    "Introduction to Operators.md",
-    "Game design documment.md",
-    "🌆Night/Drawing.md",
-    "🌆Night/Hacking.md",
-    "🌆Night/Linux.md",
-    "🌆Night/Network.md",
-    "🧠Remember list.md",
-    "🧭Project/Project C/📌 Name Project.md",
-    "Gesture Drawing.md",
-    "🌼Afternoon/Tasks.md",
-    "🌞Morning/8051.md",
-    "🌞Morning/C.md",
-    "🌞Morning/Arduino.md",
-    "🌙Evening/Game Design.md",
-    "💡Idea/Drawing 2023-03-02 08.27.38.excalidraw.md",
-    "🌙Evening/Unity.md",
-    "🌙 Evening/Untitled.md",
-    "🧭Project/Untitled.md",
-    "💡Idea/Untitled.md",
-    "💡Idea/Cu sac lay giu lieu.md",
-    "💡Idea",
-    "💡Idea",
-    "🧭Project/Project C_sharp",
-    "🧭Project/Project Game",
-    "🧭Project/Project 8051",
-    "🧭Project/Project C",
-    "🧭Project/Project Arduino",
-    "🧭Project",
-    "🌙Evening/Asprite.md",
-    "🌆Night",
-    "🌙Evening",
+    "Note4Task/Board game.md",
+    "🌙Evening/👾GameDesign/Game_AI_1/Game_AI_1.md",
+    "🌙Evening/👾GameDesign/Game_AI_1/Pathfinding/Pathfinding.md",
+    "🌙Evening/👾GameDesign/Game_AI_1/Pathfinding",
+    "🌙Evening/👾GameDesign/Game_AI_1/Decision_making/Decision_making.md",
+    "🌙Evening/👾GameDesign/Game_AI_1/Decision_making",
+    "🌙Evening/👾GameDesign/Graphics_API/Graphics_API.md",
+    "🌙Evening/👾GameDesign/Game_AI_1",
+    "Note4Task/Vulkan.md",
+    "Note4Task/OpenGL.md",
+    "Note4Task/DirectX.md",
+    "🌙Evening/👾GameDesign/Computer_graphics_1/Computer_graphics_1.md",
+    "🌙Evening/👾GameDesign/Graphics_API",
+    "Note4Task/Shader.md",
+    "🌙Evening/GameDesign.md",
+    "🌙Evening/👾GameDesign/Computer_graphics_1",
+    "🌙Evening/👾GameDesign/Game_mathematics/Game_mathematics.md",
+    "🌙Evening/👾GameDesign/Game_physics_2/Collision_detection/Collision_detection.md",
+    "🌙Evening/👾GameDesign/Game_physics_2/Game_physics_2.md",
+    "Note4Task/Convexity.md",
+    "🌙Evening/👾GameDesign/Game_physics_2/Collision_detection/Narrow_phase/Narrow_phase.md",
+    "Note4Task/Intersection.md",
+    "🌙Evening/👾GameDesign/Game_physics_2/Collision_detection/Board_phase/Board_phase.md",
+    "Note4Task/Spatial partitioning.md",
+    "Note4Task/Bouding volume.md",
+    "🌙Evening/👾GameDesign/Game_physics_2/Collision_detection/Board_phase",
+    "🌙Evening/👾GameDesign/Game_physics_2/Collision_detection/Narrow_phase",
+    "🌙Evening/👾GameDesign/Game_physics_1/Game_physics_1.md",
+    "🌙Evening/👾GameDesign/Game_physics_2/Collision_detection",
+    "🌙Evening/👾GameDesign/Game_physics_2",
+    "🌙Evening/👾GameDesign/Game_physics1/Untitled.md",
+    "🌙Evening/👾GameDesign/Programming_languages/Programming_languages.md",
+    "🌙Evening/👾GameDesign/Game_engine/PyGame/Python.md",
+    "🌙Evening/👾GameDesign/Game_engine/Game_engine.md",
+    "🌙Evening/👾GameDesign/Game_engine/PyGame/PyGame.md",
+    "🌙Evening/👾GameDesign/Game_engine/PyGame",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Learn C sharp.md"
+    "Untitled.canvas"
   ]
 }

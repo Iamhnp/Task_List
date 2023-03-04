@@ -7,6 +7,9 @@ kanban-plugin: basic
 ## Study Tasks
 
 - [ ] XLA Project 5
+- [ ] Learn Iot core II
+- [ ] Learn Nhận diện hệ thống
+- [ ] Review PLC
 
 
 ## Other Tasks
@@ -17,14 +20,11 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] Nhận diện hệ thống
 
 
 ## Complete
 
 **Complete**
-- [x] review ĐTCS
-- [x] Learn VXL
 
 
 

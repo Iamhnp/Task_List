@@ -1,4 +1,5 @@
 {
   "date-colors": [],
-  "show-checkboxes": true
+  "show-checkboxes": false,
+  "new-note-folder": "Note4Task"
 }
