@@ -6,9 +6,6 @@ kanban-plugin: basic
 
 ## Task list
 
-- [ ] The basic structure of C programming
-- [ ] How C programming works?
-- [ ] How a C compiler works?
 - [ ] What is a linker and how it works.
 - [ ] What happens in computer memory?
 - [ ] What is an executable file?
@@ -37,10 +34,18 @@ kanban-plugin: basic
 - [ ] Repetition Structure / Loops
 - [ ] Loop Control statement
 - [ ] Nested loop
+- [ ] Solve at least 20 _pyramids of stars_ program using loop. That will help you to understand how the loop works.
+- [ ] Introduction to Arrays
+- [ ] Definition, Declaration, Initialization and Accessing Arrays elements.
+- [ ] Designated initialization of arrays
+- [ ] Learn about Multi-dimensional arrays.
 
 
 ## In Progress
 
+- [ ] The basic structure of C programming
+- [ ] How C programming works?
+- [ ] How a C compiler works?
 
 
 ## Complete

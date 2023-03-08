@@ -1,5 +1,8 @@
 {
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "🌙Evening/👾GameDesign/Game Physics"
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "showInlineTitle": true
 }

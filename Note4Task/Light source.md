@@ -1,0 +1,4 @@
+- Directional light
+- Point light
+- Spot light
+- Infinite light

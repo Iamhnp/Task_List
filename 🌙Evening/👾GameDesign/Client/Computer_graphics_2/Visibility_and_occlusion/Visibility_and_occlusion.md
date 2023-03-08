@@ -6,9 +6,9 @@ kanban-plugin: basic
 
 ## Task list
 
-- [ ] Keli C51 UI
-- [ ] Microprocessor
-- [ ] Microcontroller
+- [ ] [[Occluder]]
+- [ ] [[Culling]]
+- [ ] [[Clipping]]
 
 
 ## In Progress
@@ -24,7 +24,7 @@ kanban-plugin: basic
 
 ## Archive
 
-- [x] Setup env for 8051
+- [x] Unity Editor interface
 
 %% kanban:settings
 ```

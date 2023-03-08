@@ -18,7 +18,8 @@
   "fantasy-calendar:open-fantasy-calendar": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "C"
     }
@@ -56,6 +57,25 @@
         "Shift"
       ],
       "key": "S"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ],
+  "daily-notes:goto-next": [],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
     }
   ]
 }

@@ -6,6 +6,9 @@ kanban-plugin: basic
 
 ## Task list
 
+- [ ] [[Light source]]
+- [ ] Stencil shadow
+- [ ] [[Shadow map]]
 
 
 ## In Progress
@@ -17,7 +20,11 @@ kanban-plugin: basic
 **Complete**
 
 
+***
 
+## Archive
+
+- [x] Unity Editor interface
 
 %% kanban:settings
 ```

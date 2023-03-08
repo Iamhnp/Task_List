@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "06cb6e0d2fd13cf8",
+        "id": "48bc24130d258299",
         "type": "tabs",
         "children": [
           {
-            "id": "1c1ba1ad77d71abd",
+            "id": "4990ff04d0540919",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🔖My_daily_note/08-03-2023.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -66,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 345.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "7780f69f56b2c258",
@@ -77,27 +83,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d2481d8bc5a5a39",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "7ea12d8682dad158",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🔖My_daily_note/08-03-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,121 +110,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🔖My_daily_note/08-03-2023.md"
+              }
             }
           },
           {
-            "id": "2f7c8f5eb61ed0dd",
+            "id": "f91eeb895e69ffd9",
             "type": "leaf",
             "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gif/Gif.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
-          },
-          {
-            "id": "4e520ff2a9027797",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "27756fc4a9768d06",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "e26a15bf6bfbddfc",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "746f2976f4aa7162",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "85afc297a14d59ab",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "6b8f96dfd003b657",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "d561016ac8b37407",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "a7b07618e33441eb",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "069a18c838759126",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "c65a4d012eb4b65c",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "8248d1a9bc0213f5",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "26063e010db0e964",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "3b8e049973bc28fa",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "62423a5e9079f831",
+        "type": "tabs",
+        "children": [
           {
             "id": "14a9c53891d8dcb9",
             "type": "leaf",
@@ -242,13 +143,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,51 +155,60 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "1c1ba1ad77d71abd",
+  "active": "6fb7582c22281f97",
   "lastOpenFiles": [
-    "Note4Task/Board game.md",
-    "🌙Evening/👾GameDesign/Game_AI_1/Game_AI_1.md",
-    "🌙Evening/👾GameDesign/Game_AI_1/Pathfinding/Pathfinding.md",
-    "🌙Evening/👾GameDesign/Game_AI_1/Pathfinding",
-    "🌙Evening/👾GameDesign/Game_AI_1/Decision_making/Decision_making.md",
-    "🌙Evening/👾GameDesign/Game_AI_1/Decision_making",
-    "🌙Evening/👾GameDesign/Graphics_API/Graphics_API.md",
-    "🌙Evening/👾GameDesign/Game_AI_1",
-    "Note4Task/Vulkan.md",
-    "Note4Task/OpenGL.md",
-    "Note4Task/DirectX.md",
-    "🌙Evening/👾GameDesign/Computer_graphics_1/Computer_graphics_1.md",
-    "🌙Evening/👾GameDesign/Graphics_API",
-    "Note4Task/Shader.md",
     "🌙Evening/GameDesign.md",
-    "🌙Evening/👾GameDesign/Computer_graphics_1",
-    "🌙Evening/👾GameDesign/Game_mathematics/Game_mathematics.md",
-    "🌙Evening/👾GameDesign/Game_physics_2/Collision_detection/Collision_detection.md",
-    "🌙Evening/👾GameDesign/Game_physics_2/Game_physics_2.md",
-    "Note4Task/Convexity.md",
-    "🌙Evening/👾GameDesign/Game_physics_2/Collision_detection/Narrow_phase/Narrow_phase.md",
-    "Note4Task/Intersection.md",
-    "🌙Evening/👾GameDesign/Game_physics_2/Collision_detection/Board_phase/Board_phase.md",
-    "Note4Task/Spatial partitioning.md",
-    "Note4Task/Bouding volume.md",
-    "🌙Evening/👾GameDesign/Game_physics_2/Collision_detection/Board_phase",
-    "🌙Evening/👾GameDesign/Game_physics_2/Collision_detection/Narrow_phase",
-    "🌙Evening/👾GameDesign/Game_physics_1/Game_physics_1.md",
-    "🌙Evening/👾GameDesign/Game_physics_2/Collision_detection",
-    "🌙Evening/👾GameDesign/Game_physics_2",
-    "🌙Evening/👾GameDesign/Game_physics1/Untitled.md",
-    "🌙Evening/👾GameDesign/Programming_languages/Programming_languages.md",
-    "🌙Evening/👾GameDesign/Game_engine/PyGame/Python.md",
-    "🌙Evening/👾GameDesign/Game_engine/Game_engine.md",
-    "🌙Evening/👾GameDesign/Game_engine/PyGame/PyGame.md",
-    "🌙Evening/👾GameDesign/Game_engine/PyGame",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "🔖My_daily_note/08-03-2023.md",
+    "🌙Evening/👾GameDesign/Client/Game_engine/Unity/Csharp.md",
+    "Gif/pixel-art.gif",
+    "Gif/Pasted image 20230308165334.png",
+    "Gif/Gif.md",
+    "Gif/cd7a67b904ae9a8181bda65789f2c2e5.gif",
+    "Untitled.canvas",
+    "Gif/who39s-got-more-sleepycalm-city-pixel-art-gif-album-on-imgur.gif",
+    "Gif/Pasted image 20230308165840.png",
+    "Gif/tumblr_plvv0aYO7P1rnbw6mo1_1280.gif",
+    "Gif/pixel-art 1.gif",
+    "Gif/2ef.gif",
+    "Gif/2ef 2.gif",
+    "Gif/2ef 1.gif",
+    "Gif",
+    "🌼Afternoon/Tasks.md",
+    "🌞Morning/Sciences-Engineer.md",
+    "Note4Task/Billboard.md",
+    "Form.md",
+    "🌙Evening/C_sharp.md",
+    "🌞Morning/Arduino.md",
+    "🌞Morning/8051.md",
+    "🌞Morning/C.md",
+    "My_day.md",
+    "My_daily_note/08-03-2023.md",
+    "My_daily_note/Untitled.md",
+    "🔖My_daily_note",
+    "🌆Night/Drawing.md",
+    "🌙Evening/Pixel_art.md",
+    "🌆Night/Linux.md",
+    "💡Idea/Drawing 2023-03-04 21.59.44.excalidraw.md",
+    "🌆Night/Network.md",
+    "🌆Night/Hacking.md",
+    "🌆Night/🎨Drawing/Month1.md",
+    "🌙Evening/👾GameDesign/Server",
+    "🌙Evening/👾GameDesign/Client/Advanced_rendering_2/Advanced_rendering_2.md",
+    "🌙Evening/👾GameDesign/Client/Advanced_rendering_2/Real-Time_ray_tracing/Real-Time_ray_tracing.md",
+    "🌙Evening/👾GameDesign/Client/Advanced_rendering_2/Physical-based_rendering/Physically-based_rendering.md",
+    "🌙Evening/👾GameDesign/Client/Advanced_rendering_2/Real-Time_ray_tracing",
+    "🌙Evening/👾GameDesign/Client/Advanced_rendering_2/Physical-based_rendering",
+    "🌙Evening/👾GameDesign/Client/Advanced_rendering_1/Advanced_rendering_1.md",
+    "🌙Evening/👾GameDesign/Client/Advanced_rendering_2",
+    "🌙Evening/👾GameDesign/Client/Advanced_rendering_1",
+    "🌙Evening/👾GameDesign/Client/Game_AI_2",
+    "🌙Evening/👾GameDesign/Client/Computer_graphics_2/Visibility_and_occlusion",
+    "🌙Evening/👾GameDesign/Client/Computer_graphics_2/Lighting_and_shadow",
+    "Untitled 1.canvas"
   ]
 }
