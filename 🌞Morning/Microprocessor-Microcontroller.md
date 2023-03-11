@@ -6,11 +6,8 @@ kanban-plugin: basic
 
 ## Task list
 
-- [ ] Electrcity
-- [ ] Volatge
-- [ ] Current
-- [ ] Resistance
-- [ ] Overview Arduino
+- [ ] Define Micropro/Miccrocon
+- [ ] Compare
 
 
 ## In Progress
@@ -22,7 +19,11 @@ kanban-plugin: basic
 **Complete**
 
 
+***
 
+## Archive
+
+- [x] Unity Editor interface
 
 %% kanban:settings
 ```

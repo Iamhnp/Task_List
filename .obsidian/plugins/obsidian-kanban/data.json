@@ -1,5 +1,6 @@
 {
   "date-colors": [],
   "show-checkboxes": false,
-  "new-note-folder": "Note4Task"
+  "new-note-folder": "Note4Task",
+  "hide-date-in-title": false
 }

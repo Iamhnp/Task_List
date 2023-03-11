@@ -10,10 +10,10 @@
       "syncTimelines": false,
       "timelineTag": "#timeline",
       "static": {
-        "displayDayNumber": true,
+        "displayDayNumber": false,
         "incrementDay": true,
         "displayMoons": true,
-        "firstWeekDay": 0,
+        "firstWeekDay": 1,
         "overflow": true,
         "weekdays": [
           {
@@ -196,7 +196,7 @@
       "current": {
         "year": 2023,
         "month": 2,
-        "day": 12
+        "day": 11
       },
       "events": [
         {
@@ -392,7 +392,7 @@
           "category": "miscellaneous-events"
         }
       ],
-      "id": "ID_5b7989c93b68",
+      "id": "ID_68083a19797b",
       "categories": [
         {
           "name": "Natural Events",
@@ -420,16 +420,15 @@
           "color": "#0288D1"
         }
       ],
-      "date": 1678239975563,
-      "displayWeeks": true
+      "date": 1678492641110
     }
   ],
   "configDirectory": null,
   "currentCalendar": null,
   "dailyNotes": false,
-  "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_5b7989c93b68",
-  "eventPreview": false,
+  "dateFormat": "DD-MM-YYYY",
+  "defaultCalendar": "ID_68083a19797b",
+  "eventPreview": true,
   "exit": {
     "saving": false,
     "event": false,
@@ -439,7 +438,7 @@
   "parseDates": false,
   "settingsToggleState": {
     "calendars": true,
-    "events": false,
+    "events": true,
     "advanced": true
   },
   "showIntercalary": true,
